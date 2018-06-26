@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  Read.cpp
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0420' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0430' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0431' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u043E' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0442' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0441' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0444' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0439' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u043B' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u043C' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0438' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0432' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(50): warning C4566: character represented by universal-character-name '\u0421' cannot be represented in the current code page (1252)
+c:\users\koly8\source\repos\read\read\read.cpp(102): warning C4101: 'ce': unreferenced local variable
+Read.obj : error LNK2019: unresolved external symbol "void __cdecl ServiceMain(unsigned long,wchar_t * *)" (?ServiceMain@@YAXKPEAPEA_W@Z) referenced in function main
+C:\Users\koly8\source\repos\Read\x64\Debug\Read.exe : fatal error LNK1120: 1 unresolved externals
